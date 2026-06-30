@@ -64,3 +64,92 @@ header nav ul {
   cursor: pointer;
 }
 /* Hero style end */
+
+/* Menu highlight style start */
+.menu-highlight {
+  padding-block: 60px;
+}
+
+.menu-highlight h2 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.menu-row {
+  display: flex;
+  gap: 24px;
+}
+
+.menu-card {
+  flex: 1;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #faf8f5;
+}
+
+.menu-card-img {
+  overflow: hidden;
+}
+
+.menu-card img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  display: block;
+}
+
+.menu-card-info {
+  padding: 20px;
+  text-align: center;
+}
+
+.menu-card-info h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.menu-card-info p {
+  font-size: 18px;
+  color: brown;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.menu-card-info button {
+  padding-block: 10px;
+  padding-inline: 24px;
+  color: rgb(176, 120, 17);
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Menu highlight style end */
+
+/* footer style start */
+footer {
+  text-align: center;
+  padding-block: 40px;
+  padding-inline: 30px;
+  margin-top: 60px;
+  border-top: 1px solid pink;
+  font-size: 14px;
+  color: #888;
+}
+
+/* footer style end */
+
+/* Page placeholder */
+
+.page-placeholder {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-placeholder h1 {
+  font-size: 36px;
+}
