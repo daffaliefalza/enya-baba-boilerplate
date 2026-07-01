@@ -1,0 +1,20 @@
+.our-story-wrapper h3,
+h2 {
+  text-align: center;
+}
+
+.our-story-wrapper h2 {
+  font-size: 40px;
+}
+
+.our-story-wrapper h3 {
+  color: #8b5e3b;
+  font-size: 20px;
+}
+
+.our-story-wrapper p {
+  font-size: 18px;
+  line-height: 1.7;
+  text-align: justify;
+  margin-top: 20px;
+}
