@@ -18,3 +18,10 @@
             bumbu dan rempah asli tanpa pengawet, sehingga cita rasa khas tetap
             terjaga. Nasi Uduk Enya Baba tetap menjadi pilihan utama bagi mereka
             yang mencari kelezatan masakan tradisional dengan sentuhan
+
+
+
+            - https://placehold.co/400x280/f5f5f5/999999?text=${encodeURIComponent(foodName)}
+
+
+            https://psychological-prudy-daffaliefalza-ff1f9eed.koyeb.app/api/menus
